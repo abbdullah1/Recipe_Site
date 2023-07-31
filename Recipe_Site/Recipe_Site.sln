@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Recipe_Site", "Recipe_Site\", "{ABC3F1EA-1D8A-430B-B5C0-B0376FC23A49}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55372"
+		Debug.AspNetCompiler.PhysicalPath = "Recipe_Site\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55372\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55372"
+		Release.AspNetCompiler.PhysicalPath = "Recipe_Site\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55372\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55372"
+		SlnRelativePath = "Recipe_Site\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC3F1EA-1D8A-430B-B5C0-B0376FC23A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC3F1EA-1D8A-430B-B5C0-B0376FC23A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10818799-47ED-4CD9-96CF-44910392577D}
+	EndGlobalSection
+EndGlobal
